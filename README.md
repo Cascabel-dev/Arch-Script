@@ -12,4 +12,3 @@ This script takes various actions in relation to your system, which include basi
 # Roadmap
 
 - Stable releases coming soon.  
-- Mirror on GitHub is a future possibility.
