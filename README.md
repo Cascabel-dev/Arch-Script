@@ -1,5 +1,5 @@
 # Arch Script
-This script takes various actions in relation to your system, which include basic system hardening, debloating, and basic software installation.  While unlikely, this script may cause damage to your system.  For this reason, if you have any important or sensitive data on your machine, it is crucial that you back it up before executing the script.
+This script takes various actions in relation to your system, which include basic system hardening, debloating, and basic software installation.  While unlikely, this script may cause damage to your system.  For this reason, if you have any important or sensitive data on your machine, it is crucial that you back it up before executing the script.  This script is meant to be used with an installation of Arch Linux GNOME 40.
 
 # Installation
 
@@ -11,4 +11,9 @@ This script takes various actions in relation to your system, which include basi
 
 # Roadmap
 
-- Stable releases coming soon.  
+- Stable releases  
+- Installation options for more packages.
+- Theming options
+- More hardening choices
+- Trizen mirrors for all packages that require an AUR helper.
+- Make script work on multiple desktop environments.
